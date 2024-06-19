@@ -23,7 +23,7 @@
     "cross-env": "^5.2.1",
     "remark": "^10.0.1",
     "remark-mdx": "^1.4.5",
-    "semver": "^6.3.0"
+    "semver": "^5.7.2"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-remark-copy-linked-files#readme",
   "keywords": [
